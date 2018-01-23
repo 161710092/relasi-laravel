@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #bbf;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -79,6 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
+                    <font color="red">
                     Laravel
                 </div>
 
